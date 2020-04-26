@@ -1,0 +1,19 @@
+C:\Users\54281\OneDrive\바탕 화면\1002\1002\obj\Debug\1002.csprojAssemblyReference.cache
+C:\Users\54281\OneDrive\바탕 화면\1002\1002\obj\Debug\_1002.Form1.resources
+C:\Users\54281\OneDrive\바탕 화면\1002\1002\obj\Debug\_1002.Properties.Resources.resources
+C:\Users\54281\OneDrive\바탕 화면\1002\1002\obj\Debug\1002.csproj.GenerateResource.cache
+C:\Users\54281\OneDrive\바탕 화면\1002\1002\bin\Debug\1002.exe.config
+C:\Users\54281\OneDrive\바탕 화면\1002\1002\bin\Debug\1002.exe
+C:\Users\54281\OneDrive\바탕 화면\1002\1002\bin\Debug\1002.pdb
+C:\Users\54281\OneDrive\바탕 화면\1002\1002\obj\Debug\1002.exe
+C:\Users\54281\OneDrive\바탕 화면\1002\1002\obj\Debug\1002.pdb
+C:\Users\user\Desktop\비트고급30기\5.WinForm\1002\1002\bin\Debug\1002.exe.config
+C:\Users\user\Desktop\비트고급30기\5.WinForm\1002\1002\bin\Debug\1002.exe
+C:\Users\user\Desktop\비트고급30기\5.WinForm\1002\1002\bin\Debug\1002.pdb
+C:\Users\user\Desktop\비트고급30기\5.WinForm\1002\1002\obj\Debug\1002.csprojAssemblyReference.cache
+C:\Users\user\Desktop\비트고급30기\5.WinForm\1002\1002\obj\Debug\_1002.Form1.resources
+C:\Users\user\Desktop\비트고급30기\5.WinForm\1002\1002\obj\Debug\_1002.Properties.Resources.resources
+C:\Users\user\Desktop\비트고급30기\5.WinForm\1002\1002\obj\Debug\1002.csproj.GenerateResource.cache
+C:\Users\user\Desktop\비트고급30기\5.WinForm\1002\1002\obj\Debug\1002.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\비트고급30기\5.WinForm\1002\1002\obj\Debug\1002.exe
+C:\Users\user\Desktop\비트고급30기\5.WinForm\1002\1002\obj\Debug\1002.pdb
